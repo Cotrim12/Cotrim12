@@ -1,7 +1,7 @@
 ## Felippe Cotrim
 `About Me:`
 
-Me chamo Felippe Cotrim, tenho 18 anos e sou estudante de Ciencia da Computação na Universidade Católica de Brasília (UCB), atualmente estou no 3° semestre. Meu foco é em desenvolvimento de software e IA. Possuo experiência em C, Java, Javascript, além de HTML, CSS e Banco de Dados
+Me chamo Felippe Cotrim, tenho 18 anos e sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB), atualmente estou no 3° semestre. Meu foco é em desenvolvimento de software e IA. tenho conhecimentos em C, Java, Javascript, além de HTML, CSS e Banco de Dados adquiridos durante a graduação e em projetos de estudo
 
 #
 
